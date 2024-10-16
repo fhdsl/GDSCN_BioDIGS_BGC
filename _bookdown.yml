@@ -11,7 +11,7 @@ rmd_files: ["index.Rmd",
             "06-using_galaxy.Rmd",
             "08-student_guide.Rmd",
             "07-instructor_guide.Rmd",
-            "90-antismash_module.Rmd",
+            "09-antismash_module.Rmd",
             "About.Rmd",
             "References.Rmd"]
 new_session: yes
