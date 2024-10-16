@@ -16,7 +16,7 @@ favicon: assets/GDSCN_style/gdscn_favicon.ico
 This is a companion training guide for BioDIGS, a GDSCN project that brings a research experience into the classroom. In this module, students will explore **microbiome data for the presence of biosynthesis genes**. They will run analyses using **antiSMASH as implemented on Galaxy**.
 
 ```{r, echo=FALSE, fig.alt="Landing page for the Biosynthetic Gene Cluster Activity.", fig.align='center', out.width='60%'}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1USiLPJZ21-47i_1dNXVMcVVb8rmswBCoUTIC8z8UG2Y/edit?usp=sharing")
+ottrpal::include_slide("https://docs.google.com/presentation/d/1USiLPJZ21-47i_1dNXVMcVVb8rmswBCoUTIC8z8UG2Y/edit#slide=id.g2d459dad204_0_16")
 ```
 
 Visit the BioDIGS (BioDiversity and Informatics for Genomics Scholars) website [here](https://biodigs.org/) for more information about this collaborative, distributed research project, including how you can get involved!
