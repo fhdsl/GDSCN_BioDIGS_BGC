@@ -1,0 +1,9 @@
+# BioDIGS Data
+
+```{r, echo = FALSE, results='asis'}
+cow::borrow_chapter(
+  doc_path = "child/_child_data_tour.Rmd",
+  branch = "main",
+  repo_name = "fhdsl/GDSCN_BioDIGS_Book"
+)
+```
