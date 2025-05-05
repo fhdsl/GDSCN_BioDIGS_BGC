@@ -1,6 +1,6 @@
 ---
 title: "BioDIGS: Biosynthetic Gene Clusters"
-date: "October 16, 2024"
+date: "May 05, 2025"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
